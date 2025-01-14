@@ -1,3 +1,13 @@
+# File Guide:
+- pvp-cl.py = Player vs Player with a Command Line Interface
+- pvp-gui.py = Player vs Player with Pygame GUI
+- minimax-cl.py = Player vs AI with Command Line Interface
+- pvai-gui = Player vs AI with GUI
+- aivai-nn.py = AI vs AI using Q-learning
+- aivai-dqn = AI vs AI using DQN
+
+---
+
 # Tic-Tac-Toe-AI
 Implementations of Neural Network-based AI (Q-Learning), Reinforcement Learning (DQN), and the Minimax Algorithm for playing Tic-Tac-Toe.
 
