@@ -2,7 +2,7 @@
 - pvp-cl.py = Player vs Player with a Command Line Interface
 - pvp-gui.py = Player vs Player with Pygame GUI
 - minimax-cl.py = Player vs AI with Command Line Interface
-- pvai-gui = Player vs AI with GUI
+- minimax-gui = Player vs AI with GUI (minimax)
 - aivai-nn.py = AI vs AI using Q-learning
 - aivai-dqn = AI vs AI using DQN
 
